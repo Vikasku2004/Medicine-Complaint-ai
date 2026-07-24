@@ -1,0 +1,15 @@
+Complaint Source: Phone Call
+Customer Name: Dr. Anjali Sharma, City General Hospital
+Product: Amoxicillin API (Active Pharmaceutical Ingredient)
+Batch/Lot Number: AMX-API-2026-0932
+Manufacturing Date: 2026-03-02
+Expiry Date: 2027-03-01
+Quantity Affected: 25 kg
+
+Complaint Type: Adverse Event / Potency Failure
+Complaint Date: 2026-07-18
+
+Description: Hospital pharmacy reported that finished dosage forms manufactured using
+this API batch showed reduced therapeutic effect in 3 patients, and lab retesting
+suggests potency below the 90% specification threshold. Hospital has paused use of
+remaining stock and is requesting urgent root cause investigation and CAPA.
